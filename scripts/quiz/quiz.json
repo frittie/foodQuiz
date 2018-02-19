@@ -2,7 +2,7 @@
   {
     "question": "Vad gör man när man flamberar?",
     "answers": {
-      "a": "Stark alkohol hälls över en het maträtt och tänder sedan på så att alkoholen brinner upp",
+      "a": "Stark alkohol hälls över en het maträtt och tänds sedan på så att alkoholen brinner upp",
       "b": "Vatten tillsätts i en stekhet panna och får sedan får koka bort",
       "c": "En köttbit steks på hög värme och får sedan vila i folie för att uppnå rätt temperatur"
     },
@@ -23,6 +23,24 @@
       "a": "Indian Pale Ale",
       "b": "Irish Pale Ale",
       "c": "Italian Pale Ale"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Vad heter medtoden där du använder en sabel för att öppna en champagneflaska?",
+    "answers": {
+      "a": "Sabling",
+      "b": "Sabelering",
+      "c": "Sabrering"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Vilken är huvudingrediensen i den traditionella italienska rätten 'Osso Buco'?",
+    "answers": {
+      "a": "Kalvlägg",
+      "b": "Fläskfilé",
+      "c": "Entrecôte"
     },
     "correctAnswer": "a"
   }
