@@ -1,0 +1,29 @@
+[
+  {
+    "question": "Vad gör man när man flamberar?",
+    "answers": {
+      "a": "Stark alkohol hälls över en het maträtt och tänder sedan på så att alkoholen brinner upp",
+      "b": "Vatten tillsätts i en stekhet panna och får sedan får koka bort",
+      "c": "En köttbit steks på hög värme och får sedan vila i folie för att uppnå rätt temperatur"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "question": "En ingrediens som ofta används i sushirätter är nori, vad är det?",
+    "answers": {
+      "a": "Ingefära",
+      "b": "Alger",
+      "c": "Soja"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Överjäst öl framställt med extra mycket humle och malt förkortas IPA, vad står det för?",
+    "answers": {
+      "a": "Indian Pale Ale",
+      "b": "Irish Pale Ale",
+      "c": "Italian Pale Ale"
+    },
+    "correctAnswer": "a"
+  }
+]
